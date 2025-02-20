@@ -17,17 +17,17 @@ print(d==True)
 e=str(a)+str(b)+str(c)+str(d)
 print(e)
 
-
-def extract_b_words(file):
-    """
-    :param file:
-    :return:
-    """
-    with open(file, 'r') as f:
-        words = f.read().split()
-        for words in words:
-            if len(words) == 3 and words.lower().startswith('b'):
-                print(words)
-
+#check if number is odd
+number = int(input("Enter a number: "))
+if number % 2 == 0:
+    print(f"{number} is even.")
+else:
+    print(f"{number} is odd.")
+#practice check if number is odd
+number = int(input("Enter a number: "))
+if number % 2 == 0:
+    print(f"{number} is even")
+else:
+    print(f"{number} is odd")
 
 
