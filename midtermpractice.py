@@ -42,6 +42,7 @@ while i <= n:
 print(f"The sum of the first {n} natural numbers is {total}.")
 
 
+
 #check if text is a palyndrome
 text = input("Enter a string: ").lower().replace(" ", "")
 if text == text[::-1]:
