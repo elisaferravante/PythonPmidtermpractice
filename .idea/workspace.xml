@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9aac54a-f7d3-425c-a764-6e88116f9a37" name="Changes" comment="ses 5&amp;6 practice pt.3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e9aac54a-f7d3-425c-a764-6e88116f9a37" name="Changes" comment="ses 5&amp;6 practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,15 +85,40 @@
       <option name="project" value="LOCAL" />
       <updated>1740044981561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ses 5&amp;6 practice pt.4">
+      <option name="closed" value="true" />
+      <created>1740045835320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740045835320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ses 5&amp;6 practice">
+      <option name="closed" value="true" />
+      <created>1740045960660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740045960660</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ses 5&amp;6 practice">
+      <option name="closed" value="true" />
+      <created>1740045970052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740045970052</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
     <MESSAGE value="1st commit proper" />
-    <MESSAGE value="ses 5&amp;6 practice" />
     <MESSAGE value="ses 5&amp;6 practice pt.2" />
     <MESSAGE value="ses 5&amp;6 practice pt.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ses 5&amp;6 practice pt.3" />
+    <MESSAGE value="ses 5&amp;6 practice pt.4" />
+    <MESSAGE value="ses 5&amp;6 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="ses 5&amp;6 practice" />
   </component>
 </project>
