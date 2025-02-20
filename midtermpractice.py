@@ -30,4 +30,13 @@ if number % 2 == 0:
 else:
     print(f"{number} is odd")
 
+#sum of first N numbers
+n = int(input("Enter a positive integer: "))
+total = 0
+i = 1
 
+while i <= n:
+    total += i
+    i += 1
+
+print(f"The sum of the first {n} natural numbers is {total}.")
