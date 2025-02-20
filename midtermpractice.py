@@ -49,3 +49,22 @@ if text == text[::-1]:
     print("The string is a palindrome.")
 else:
     print("The string is not a palindrome.")
+
+#find prime numbers and extracts them from a list
+def is_prime(num):
+    """finds prime numbers"""
+    if num <= 1:
+        return False
+    for i in range (2, int(num**0.5) + 1):
+        if num % i == 0:
+            return False
+        return True
+def get_prime_numbers(numbers):
+    """Function to return prime numbers from a list."""
+    primes = [num for num in numbers if is_prime(num)]
+    return primes
+
+# Example usage
+numbers = [10, 15, 17, 19, 21, 23, 29, 30, 31]
+print(f"Original list: {numbers}")
+print(f"Prime numbers: {get_prime_numbers(numbers)}")
